@@ -15,7 +15,7 @@ Every time a user runs the program, they should get a new, randomized output.
 The topic for this project will be a project idea generator.  
 this will take three different ideas to make a project with.  
  ***Optional*** - Add a programing language to the generator to try the project in.
- 
+
 ### Actions
 
 * [x] **Topic:** *Come up which types of messages will be used for output.*
