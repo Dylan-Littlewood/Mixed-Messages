@@ -18,3 +18,9 @@ Every time a user runs the program, they should get a new, randomized output.
 * [ ] **Random:** *Come up with a way to randomly select the messages.*
 * [ ] **Product:** *Bring all sections of the program together.*
 * [ ] **Expand:** *Expand on the project with extra functionality.*
+
+### Topic
+
+The topic for this project will be a project idea generator.  
+this will take three different ideas to make a project with.  
+ ***Optional*** - Add a programing language to the generator to try the project in.
