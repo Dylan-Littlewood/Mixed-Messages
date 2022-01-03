@@ -5,13 +5,16 @@ Date: *24/12/2021*
 
 ## Mixed Messages
 
+### Overview
+
 For this project, I will be building a message generator program.  
 Every time a user runs the program, they should get a new, randomized output.
 
-### The Plan
+### Actions
 
-1. **The Topic:** *Come up which types of messages will be used for output.*
-2. **The Script:** *Set up the JavaScript file and check it runs locally.*
-3. **The Messages:** *Decide how to store all of the messages.*
-4. **The Random:** *Come up with a way to randomly select the messages.*
-5. **The Product:** *Bring all sections of the program together.*
+* [ ] **Topic:** *Come up which types of messages will be used for output.*
+* [ ] **Script:** *Set up the JavaScript file and check it runs locally.*
+* [ ] **Messages:** *Decide how to store all of the messages.*
+* [ ] **Random:** *Come up with a way to randomly select the messages.*
+* [ ] **Product:** *Bring all sections of the program together.*
+* [ ] **Expand:** *Expand on the project with extra functionality.*
