@@ -1,7 +1,21 @@
 
 const idea = {
     activity: [
-        ''
+        'newspaper',
+        'magazine',
+        'coloring',
+        'gardening',
+        'swimming',
+        'singing',
+        'dancing',
+        'painting',
+        'cooking',
+        'jogging',
+        'hiking',
+        'stargazing',
+        'volunteering',
+        'sightseeing',
+        'reading'
     ],
     functionality: [
         ''
