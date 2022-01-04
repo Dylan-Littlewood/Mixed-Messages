@@ -71,8 +71,16 @@ const idea = {
         'Rust',
         'Haskell',
         'WebAssembly'
-    ]
+    ],
+
+    generateMessage() {
+        const act = getRandom(this.activity);
+        const func = getRandom(this.functionality);
+        const whf = getRandom(this.whatFor);
+        const lang = getRandom(this.language);
+
+        console.log(`A ${act} ${func} for ${whf}\n - in ${lang}`);
+    }
 }
 
-console.log('Starting Tests...');
-
+idea.generateMessage();
