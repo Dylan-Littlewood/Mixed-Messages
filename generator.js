@@ -1,4 +1,8 @@
 
+const getRandom = array => {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
 const idea = {
     activity: [
         'newspaper',
