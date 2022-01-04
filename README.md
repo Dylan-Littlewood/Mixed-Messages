@@ -20,7 +20,7 @@ this will take three different ideas to make a project with.
 
 * [x] **Topic:** *Come up which types of messages will be used for output.*
 * [x] **Script:** *Set up the JavaScript file and check it runs locally.*
-* [ ] **Messages:** *Decide how to store all of the messages.*
+* [X] **Messages:** *Decide how to store all of the messages.*
 * [ ] **Random:** *Come up with a way to randomly select the messages.*
 * [ ] **Product:** *Bring all sections of the program together.*
 * [ ] **Expand:** *Expand on the project with extra functionality.*
