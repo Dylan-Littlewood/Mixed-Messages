@@ -18,7 +18,21 @@ const idea = {
         'reading'
     ],
     functionality: [
-        ''
+        'todo',
+        'search',
+        'planner',
+        'tracker',
+        'locator',
+        'research',
+        'training',
+        'scheduling',
+        'discovery',
+        'calculator',
+        'notes',
+        'marketplace',
+        'camera',
+        'streaming',
+        'attending'
     ],
     whatFor: [
         ''
