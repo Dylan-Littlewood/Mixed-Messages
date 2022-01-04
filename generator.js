@@ -35,7 +35,21 @@ const idea = {
         'attending'
     ],
     whatFor: [
-        ''
+        'shopping',
+        'traveling',
+        'camping',
+        'adventuring',
+        'programers',
+        'gardeners',
+        'musicians',
+        'artists',
+        'athletes',
+        'magicians',
+        'cleaners',
+        'managers',
+        'fishing',
+        'divers',
+        'surfers'
     ],
     language: [
         'Java',
